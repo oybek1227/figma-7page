@@ -1,0 +1,151 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+header{
+  width: 100%;
+  height: 100vh;
+  background-image: url("/images/e0dabee8c9e9266c41feb3d81f04ea725c214cde.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+   background-position: center;
+}
+.text-1xl{
+  color: white;
+}
+.btn{
+  padding: 10px 30px;
+  background-color: #A92A1D;
+  color: white;
+}
+.text{
+  color: white;
+}
+.box{
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 200px;
+}
+.box__first--title{
+  color: white;
+  font-size: 50px;
+  font-weight: 600;
+  width: 350px;
+}
+.ten{
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 30px;
+}
+.box__first--btn{
+  padding: 15px 40px;
+  background-color: #A92A1D;
+  color: white;
+}
+main{
+  width: 100%;
+  height: 810px;
+  background-color: black;
+}
+.main__text{
+  text-align: center;
+  line-height: 80px;
+}
+.main__text--subtitle{
+  color: white;
+  font-size: 15px;
+  font-weight: 200;
+  width: 800px;
+margin-left: 360px;
+line-height: 20px;
+}
+.main__text--title{
+color: white;
+font-size: 30px;
+font-weight: 500;
+}
+.main__text--img{
+  margin-left: 680px;
+  margin-top: 30px;
+}
+.main__img{
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+.main__img--img{
+  width: 400px;
+  height: 600px;
+}
+.card{
+  width: 100%;
+  height: 600px;
+  background-color: black;
+  align-items: center;
+  justify-content: space-around;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.card__text--title{
+  color: white;
+  font-size: 30px;
+  font-weight: 500;
+}
+.card__text--subtitle{
+  color: white;
+  width: 350px;
+  margin-top: 30px;
+}
+.card__img--img{
+  width: 500px;
+  height: 500px;
+  margin-top: 100px;
+}
+.banner{
+  width: 100%;
+  height: 700px;
+  background-color: black;
+  position: relative;
+}
+.banner__img{
+  width: 450px;
+  height: 400px;
+}
+.one{
+  position: absolute;
+  left: 50px;
+  top: 300px;
+}
+.two{
+  position: absolute;
+  left: 550px;
+}
+.three{
+  position: absolute;
+  left: 1050px;
+  top: 300px;
+}
+.banner__title{
+  position: absolute;
+  left: 670px;
+  top: 500px;
+  font-size: 30px;
+  font-weight: 500;
+  color: white;
+}
+.qq{
+  color: #A92A1D;
+}
+.banner__subtitle{
+  width: 300px;
+  position: absolute;
+  left: 670px;
+  top: 600px;
+  color: white;
+}
