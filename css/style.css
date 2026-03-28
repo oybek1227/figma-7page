@@ -6,7 +6,7 @@
   text-decoration: none;
 }
 .cantenr{
-  max-width: 1500px;
+  max-width: 1550px;
 }
 header{
   width: 100%;
@@ -15,6 +15,7 @@ header{
   background-repeat: no-repeat;
   background-size: cover;
    background-position: center;
+     max-width: 1550px;
 }
 .text-1xl{
   color: white;
@@ -54,6 +55,7 @@ main{
   width: 100%;
   height: 810px;
   background-color: black;
+    max-width: 1550px;
 }
 .main__text{
   text-align: center;
@@ -94,6 +96,7 @@ font-weight: 500;
   justify-content: space-around;
   display: flex;
   flex-direction: row-reverse;
+    max-width: 1550px;
 }
 .card__text--title{
   color: white;
@@ -115,6 +118,7 @@ font-weight: 500;
   height: 700px;
   background-color: black;
   position: relative;
+    max-width: 1550px;
 }
 .banner__img{
   width: 450px;
@@ -160,6 +164,7 @@ section{
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+    max-width: 1550px;
 }
 .section__img{
   width: 300px;
@@ -205,6 +210,7 @@ color: white;
   display: flex;
   justify-content: space-around;
   background-color: black;
+    max-width: 1550px;
 }
 .rapper__img--img{
   width: 450px;
@@ -240,6 +246,7 @@ background-color: black;
 align-items: center;
 justify-content: space-around;
 display: flex;
+  max-width: 1550px;
 }
 
 .footer__text--title{
